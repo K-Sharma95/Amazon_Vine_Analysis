@@ -6,13 +6,7 @@
 
 
 ## Results
-How many Vine reviews and non-Vine reviews were there?
-tbd
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-tbd
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-tbd
-
+The number of vine reviews, non vine reviews, five star, and non five star reviews will be considered when issues are resolved. The resulting analsis will be located here in the results section. My hypothesis is that the verified vine members are biased in their reviews and provide better ratings for movies that are published by certain publishers.
 
 ## Summary 
 
