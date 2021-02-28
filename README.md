@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
   This module contains a statistical analysis of Amazon reviews written by members of the paid Amazon vine program. Amazons Vine members provide incentive to create reviews 
-  for the use of manufacturers and publishers. This analysis uses movie data The data can be found [here](https://s3.amazonaws.com/amazon-reviews-     pds/tsv/amazon_reviews_us_Music_v1_00.tsv.gz).
+  for the use of manufacturers and publishers. This analysis uses movie data The data can be found [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Music_v1_00.tsv.gz).
   This repository uses the power of Pyspark and Google colab to extract the data, create associated dataframes, connect to AWS and upload these dataframes to pgadmin. 
 
 
