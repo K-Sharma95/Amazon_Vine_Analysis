@@ -6,7 +6,7 @@
 
 
 ## Results
-As we can see by analyzing the last few cells of [amazon_vine_analysis.ipynb](https://github.com/K-Sharma95/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb), about 70% of our total reviws were conducted by verified members, or members of the vine program. This suggests that the large majority of reviews are conducted with an incentive from the verified vine group; to be presented to the publisher. This data sauggests that the reviewers who had this incentive were more likely to give a five star review for that publisher. 
+As we can see by analyzing the last few cells of [amazon_vine_analysis.ipynb](https://github.com/K-Sharma95/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb), about 70% of our total reviws were conducted by verified members, or members of the vine program. This suggests that the large majority of reviews are conducted with an incentive from the verified vine group; to be presented to the publisher. This data suggests that the reviewers who had this incentive were more likely to give a five star review for that publisher. 
 
 ## Summary 
 
